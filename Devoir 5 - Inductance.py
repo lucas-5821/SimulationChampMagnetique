@@ -1,15 +1,10 @@
 # -------------------------------------------------------------------------
 #
-# PYTHON for DUMMIES 22-23
-# Problème 5
-#
 # Script de test
 #  Vincent Legat
 #  Nathan Coppin
 #  Nicolas Roisin
-#
-# Largement inspiré d'un code préliminaire de Nicolas Roisin :-)
-# Ou les méthodes numériques pour obtenir la solution du projet P2 !
+#  Code complet par Lucas Schuermans
 #
 # -------------------------------------------------------------------------
 #
